@@ -13,7 +13,7 @@ BeautifulSoup \
 Pandas 
 
 ### Launch 
-I use Spyder and the libraries are via Anaconda.
+Launch in CMD. All dependencies in venv.
 
 ### Status 
 I scraped and saved on files the votes for years 2017 and 2018, 2019 being work in progress. 
